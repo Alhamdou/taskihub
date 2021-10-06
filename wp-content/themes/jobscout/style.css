@@ -496,7 +496,7 @@ q {
   font-style: italic;
   font-family: "Georgia";
   line-height: 1.7;
-  background: url(https://https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/quote.svg) no-repeat;
+  background: url(https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/quote.svg) no-repeat;
   background-size: 21px;
   background-position: 30px 35px;
 }
@@ -1238,7 +1238,7 @@ form.search-form input.search-submit {
   border-radius: 0 5px 5px 0;
   border: none;
   color: #fff;
-  background: #2ace5e url(https://https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/search-icon.svg);
+  background: #2ace5e url(https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/search-icon.svg);
   background-size: 15px;
   background-repeat: no-repeat;
   background-position: center;
@@ -1722,7 +1722,7 @@ COMMENTS AREA
 
 .comment-body .reply a.comment-reply-link {
   color: rgba(0, 0, 0, 0.6);
-  background: url(https://https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/reply.svg) no-repeat;
+  background: url(https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/reply.svg) no-repeat;
   background-size: 13px;
   background-position: center right;
   padding-right: 20px;
@@ -2934,7 +2934,7 @@ section.testimonial-section {
   background-size: cover;
   position: relative;
   z-index: 1;
-  background-image: url(https://https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/testimonial-bg.jpg);
+  background-image: url(https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/testimonial-bg.jpg);
   background-repeat: no-repeat;
 }
 
@@ -3277,7 +3277,7 @@ SEARCH PAGE
 }
 
 .search .page-header form.search-form input.search-submit {
-  background-image: url(https://https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/search-icon-gray.svg);
+  background-image: url(https://github.com/Alhamdou/taskihub/wp-content/themes/jobscout/images/search-icon-gray.svg);
   background-color: transparent;
 }
 
